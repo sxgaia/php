@@ -1,6 +1,6 @@
 <?
 
-echo "ola mundo";
+echo "olá mundo";
 
 
 ?>
